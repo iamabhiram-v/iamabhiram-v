@@ -29,19 +29,9 @@
 
 <h2 align="center"><img src="assets/h-about.svg" width="100%" alt="Who I Am" /></h2>
 
-```ts
-const abhiram = {
-  name: "Abhiram V",
-  role: "Full Stack Developer Intern @ Richinnovations",
-  studying: "MCA in Cyber Security & AI (Amrita Vishwa Vidyapeetham)",
-  building: "RoleGuard — RBAC & workspace collaboration platform",
-  stack: ["TypeScript", "React", "Node.js", "Express", "PostgreSQL", "Redis"],
-  security: ["Burp Suite", "Nmap", "Gobuster", "Metasploit", "OWASP Top 10"],
-  goal: "HTB Certified Penetration Testing Specialist (CPTS)",
-  approach: "Build it properly, then attack it to see if it holds.",
-  motto: "Always learning. Always building. Always securing.",
-} as const;
-```
+<p align="center">
+  <img src="profile-card.svg" width="100%" alt="Abhiram V: Full Stack Developer Intern at Richinnovations, studying MCA in Cyber Security and AI at Amrita Vishwa Vidyapeetham, building RoleGuard, aiming for HTB CPTS. Always learning. Always building. Always securing." />
+</p>
 
 <p align="center">
   I'm an aspiring <b>Application Security Engineer</b>. Working as a developer teaches me how applications are put together, so when I switch to the attacker's seat, I already know where the weak spots hide: <b>APIs, authentication, and access control</b>.
