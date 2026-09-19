@@ -1,4 +1,13 @@
-
+<!--
+  BEFORE COMMITTING (delete this block):
+  1. Upload the whole `assets/` folder and `.github/workflows/snake.yml` next to this README.
+  2. Search for "TODO" and fill in:
+       TODO_PORTFOLIO_URL  -> your portfolio URL (or delete the Portfolio badge)
+       TODO_ROLEGUARD_URL  -> RoleGuard live demo (or delete that button if not public)
+       TODO_ROLEGUARD_REPO -> RoleGuard repo (or delete that button if private)
+  3. Run the snake workflow once: Actions tab -> "Generate contribution snake" -> Run workflow.
+  GitHub username is set to iamabhiram-v. Change it if that's wrong.
+-->
 
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Abhiram V: Application Security and Full Stack Engineering" />
