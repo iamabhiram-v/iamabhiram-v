@@ -1,12 +1,6 @@
 <!--
-  BEFORE COMMITTING (delete this block):
-  1. Upload the whole `assets/` folder and `.github/workflows/snake.yml` next to this README.
-  2. Search for "TODO" and fill in:
-       TODO_PORTFOLIO_URL  -> your portfolio URL (or delete the Portfolio badge)
-       TODO_ROLEGUARD_URL  -> RoleGuard live demo (or delete that button if not public)
-       TODO_ROLEGUARD_REPO -> RoleGuard repo (or delete that button if private)
-  3. Run the snake workflow once: Actions tab -> "Generate contribution snake" -> Run workflow.
-  GitHub username is set to iamabhiram-v. Change it if that's wrong.
+  Images live in the assets/ folder next to this README.
+  To add buttons later: Portfolio -> your site URL, Live Demo -> your RoleGuard URL.
 -->
 
 <p align="center">
@@ -15,8 +9,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhiram-v-297188364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e11d9a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b1e" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="TODO_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0b1e" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://github.com/iamabhiram-v"><img src="https://img.shields.io/badge/GitHub-Follow-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b1e" alt="GitHub" /></a>
 </p>
@@ -82,9 +74,7 @@ const abhiram = {
 </p>
 
 <p align="center">
-  <a href="TODO_ROLEGUARD_URL"><img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-e11d9a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0b1e" alt="Live Demo" /></a>
-  &nbsp;&nbsp;
-  <a href="TODO_ROLEGUARD_REPO"><img src="https://img.shields.io/badge/Source%20Code-💻%20View-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b1e" alt="Source Code" /></a>
+  <a href="https://github.com/iamabhiram-v/role-guard-authentication-system"><img src="https://img.shields.io/badge/Source%20Code-💻%20View-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b1e" alt="Source Code" /></a>
 </p>
 
 <p align="center">
@@ -319,13 +309,13 @@ I documented RoleGuard end to end in a 62-page package covering:
 <h2 align="center"><img src="assets/h-activity.svg" width="100%" alt="GitHub Activity" /></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iamabhiram-v&show_icons=true&bg_color=0b0b1e&title_color=ff3355&text_color=e5e7eb&icon_color=8b5cf6&border_color=4c1d95&border_radius=12" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iamabhiram-v&show_icons=true&bg_color=0b0b1e&title_color=ff3355&text_color=e5e7eb&icon_color=8b5cf6&border_color=4c1d95&border_radius=12" width="440" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamabhiram-v&layout=compact&bg_color=0b0b1e&title_color=ff3355&text_color=e5e7eb&border_color=4c1d95&border_radius=12" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamabhiram-v&layout=compact&bg_color=0b0b1e&title_color=ff3355&text_color=e5e7eb&border_color=4c1d95&border_radius=12" width="350" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamabhiram-v&theme=dark&background=0b0b1e&ring=e11d9a&fire=ff3355&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af&border=4c1d95&stroke=4c1d95" width="100%" style="max-width: 500px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamabhiram-v&theme=dark&background=0b0b1e&ring=e11d9a&fire=ff3355&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af&border=4c1d95&stroke=4c1d95" width="500" alt="GitHub Streak" />
 </p>
 
 <p align="center">
