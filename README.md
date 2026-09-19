@@ -30,7 +30,7 @@
 <h2 align="center"><img src="assets/h-about.svg" width="100%" alt="Who I Am" /></h2>
 
 <p align="center">
-  <img src="profile-card.svg" width="100%" alt="Abhiram V: Full Stack Developer Intern at Richinnovations, studying MCA in Cyber Security and AI at Amrita Vishwa Vidyapeetham, building RoleGuard, aiming for HTB CPTS. Always learning. Always building. Always securing." />
+  <img src="assets/profile-card.svg" width="100%" alt="Abhiram V: Full Stack Developer Intern at Richinnovations, studying MCA in Cyber Security and AI at Amrita Vishwa Vidyapeetham, building RoleGuard, aiming for HTB CPTS. Always learning. Always building. Always securing." />
 </p>
 
 <p align="center">
